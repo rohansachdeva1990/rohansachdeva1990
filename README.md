@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on a full stack app based on react and spring microservices
 - 🌱 I’m currently learning web design and react
-- 👯 I’m looking to collaborate on any Java or JS based projects. Even 
+- 👯 I’m looking to collaborate on any Java or JS based projects or even mobile apps (android or ios)
 - 🤔 I’m looking for help with devops route and some guidance on software architecture
-- 💬 Ask me about oops, design patterns, clean coding, refactoring
+- 💬 Ask me about oops, design patterns, clean coding and refactoring
 - 📫 How to reach me: I'm [on Twitter (@_RohanSachdeva)](http://twitter.com/_RohanSachdeva). Or by [e-mail](mailto:rohan.sachdeva1990@gmail.com)
 
 <!--
