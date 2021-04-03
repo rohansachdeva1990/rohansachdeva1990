@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on a full stack app based on react and spring microservices
+- 🌱 I’m currently learning web design and react
+- 👯 I’m looking to collaborate on any Java or JS based projects. Even 
+- 🤔 I’m looking for help with devops route and some guidance on software architecture
+- 💬 Ask me about oops, design patterns, clean coding, refactoring
+- 📫 How to reach me: I'm [on Twitter (@_RohanSachdeva)](http://twitter.com/_RohanSachdeva). Or by also [e-mail](mailto:rohan.sachdeva1990@gmail.com), 
+
 <!--
 **rohansachdeva1990/rohansachdeva1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
